@@ -1,3 +1,4 @@
+# Learn equasion x=y+2
 import tensorflow as tf 
 import numpy as np
 model = tf.keras.Sequential([tf.keras.layers.Dense(units = 1, input_shape = [1])])
