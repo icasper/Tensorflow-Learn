@@ -1,5 +1,4 @@
 # Learn equasion x=y+2
-# This code should work in tensor flow 2
 
 import tensorflow as tf 
 import numpy as np
